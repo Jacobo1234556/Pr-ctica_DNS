@@ -2,7 +2,3 @@ zone "asircastelao.int." {
         type primary;
         file "/var/lib/bind/db.asircastelao.int";
 };
-zone "Jacobo_DNS.int." {
-        type secundary;
-        file "/var/lib/bind/db.asircastelao.int";
-};

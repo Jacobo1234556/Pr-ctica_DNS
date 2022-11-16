@@ -5,7 +5,7 @@ options {
                 8.8.4.8;
                 1.1.1.1;
         };
-        foward only;
+        forward only;
 
         listen-on { any; };
         listen-on-v6 { any; };

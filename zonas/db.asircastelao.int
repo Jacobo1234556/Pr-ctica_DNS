@@ -7,9 +7,8 @@ $TTL    3600
                           600 )         ; Negative Cache TTL [1h]
 ;
 @       IN     NS      ns.asircastelao.int.
-@       IN     NS      ns.Jacobo_DNS.int.
 ns      IN     A        10.1.0.222
 test    IN     A        10.1.0.2
 alias   IN    CNAME     test
-alias   IN   IN TXT     mensaje 
+
 
