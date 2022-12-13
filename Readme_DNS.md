@@ -46,6 +46,14 @@ Para añadir una nueva zona me dirijo al archivo 'named.conf.local' alli añado 
 
 6.
 Para configurar su registro me dirijo al archivo 'db.asircastelao.int' aqui añado en nombre de mi zona y culaquier alias que le quiera dar.
+<<<<<<< HEAD
+=======
+
+7.
+Ahora para configurar el cliente me dirijo de nuevo a 'docker-compose.yml', aqui creo mi nuevo cliente y le indico la network que va a usar (la que hemos creado), el modo de arranque, el nombre ...
+
+Ahora compruebo la zonas y intento el arranque, si se han seguidos los pasos no debería suponer ningun problema
+>>>>>>> 9b0e3ecadb1b5a79bd4ed6ef8e0477858a730dbd
 
 7.
 Ahora para configurar el cliente me dirijo de nuevo a 'docker-compose.yml', aqui creo mi nuevo cliente y le indico la network que va a usar (la que hemos creado), el modo de arranque, el nombre ...
